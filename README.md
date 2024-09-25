@@ -3,7 +3,7 @@
 #### I am excited to leverage my analytical expertise and newly acquired development skills in a dynamic software development role. I’m eager to contribute to a forward-thinking team where I can continue to further develop my abilities, tackle new challenges, and deliver significant results.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelfeet/) 
-[![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/michaelfeet/michaelfeet/)
+[![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/michaelfeet/)
 
 #### Libraries and Frameworks
 
